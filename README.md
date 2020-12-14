@@ -1,16 +1,7 @@
-# app
+# Flutter TodoApp Using GETX
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) GetX state Management System
+2) Navigation Routes using GetX 
+3) SnackBar using GETX
+4) insert, update, delete functionality
+5) Implement a undo function triggered by a button inside the snackbar;
